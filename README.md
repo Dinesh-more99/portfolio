@@ -41,10 +41,10 @@ A responsive blogging platform with a custom CMS, created using React, Express.j
 
 ##  GitHub Stats
 
-- **50+** GitHub Followers  
-- **1.2k+** Profile Views  
-- **20+** Repository Stars  
-- **15+** Completed Projects  
+- **2+** GitHub Followers  
+- **120+** Profile Views  
+- **5+** Repository Stars  
+- **5+** Completed Projects  
 
 These stats reflect my commitment to open-source contributions and consistent development growth, with impacts across multiple coding domains.
 
